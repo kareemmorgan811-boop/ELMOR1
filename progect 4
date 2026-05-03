@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <title>log in page</title>
+        <link rel="stylesheet"
+        href="style.css">
+    </head>
+    <body>
+        <header>
+    <h1>log in </h1>
+        </header>
+        <main>
+        </div>
+        </main>
+        <form action="file:///C:/Users/Compu%20Art%20Store/Desktop/project/project2">
+            <input type="text"
+            placeholder="farouk" required>
+            <input type="password"
+            placeholder="2282007" required>
+            <button type="submit"
+            style="padding: 20px 50px;
+            font-size:25px;">log in </button>
+            </button>
+        </form>
+    </body>
+</html>
